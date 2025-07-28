@@ -1,4 +1,5 @@
  - [Reasoning LLMS from Scratch](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSijcbUrRZHm6BrdinLuelPs)
+   youtube playlist by Dr. Raj Dandekar from vizuara.ai
    - [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
      - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
      - [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
